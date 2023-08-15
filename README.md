@@ -20,7 +20,6 @@ I am an experienced backend developer specializing in C# and the .NET framework.
   </a>
   <!-- Add more social links here -->
 </p>
-
 <h2 align="center">🛠️ My Tech Stack:</h2>
 
 <p align="center">
