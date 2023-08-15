@@ -15,7 +15,7 @@ I am an experienced backend developer specializing in C# and the .NET framework.
   <a href="https://your-portfolio-link">
     <img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="https://t.me/your-telegram">
+  <a href="https://t.me/zln_work">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <!-- Add more social links here -->
