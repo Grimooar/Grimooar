@@ -20,5 +20,5 @@ C# | .NET | ASP.NET | Entity Framework | SQL Server | REST API
 
 ## GitHub Trophies
 
-![Trophies](link-to-your-trophies)
+![Trophies]((https://github.com/users/Grimooar/achievements/pull-shark)https://github.com/users/Grimooar/achievements/pull-shark)
 
