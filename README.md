@@ -1,24 +1,80 @@
-# About Me
+<h1 align="center">💫 About Me:</h1>
 
-Greetings! I am an experienced backend developer with expertise in the C# programming language and the .NET framework. My passion is to create outstanding digital solutions that are not only visually appealing but also functional. My projects include developing complex web applications and building machine learning models. I am detail oriented, highly organized and dedicated to delivering high quality work that meets the needs of my clients. With my skills and experience, I am confident in my ability to solve any development problem. 🚀
+<h3 align="center">👋 Hello!</h3>
+<p align="center">
+I am an experienced backend developer specializing in C# and the .NET framework. My passion is creating outstanding digital solutions that are both visually appealing and highly functional. I have a strong track record of working on complex projects, from building robust web applications to crafting efficient machine learning models. My approach is detail-oriented and I'm committed to delivering top-quality work that caters to the needs of my clients. With my skills and experience, I'm confident in my ability to tackle any backend development challenge that comes my way. 🚀
+</p>
 
-## Connect with me
+<p align="center"> 
+  <img src="https://path-to-your-terminal-gif" alt="Terminal GIF">
+</p>
 
-[Telegram](https://t.me/zln_work) | Email: zln.vvm@gmail.com
+<h2 align="center">🌐 Connect with me:</h2>
 
-## Tech Stack
+<p align="center">
+  <a href="https://your-portfolio-link">
+    <img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="https://t.me/your-telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <!-- Add more social links here -->
+</p>
 
-C# | .NET | ASP.NET | Entity Framework | SQL Server | REST API
+<h2 align="center">🛠️ My Tech Stack:</h2>
 
-## GitHub Stats
+<p align="center">
+  <!-- Add badges for your tech stack here -->
+</p>
 
-![GitHub Followers](https://img.shields.io/github/followers/Grimooar?style=social) ! [GitHub Repositories](https://img.shields.io/github/repositories/Grimooar?style=flat)
+<h2 align="center">📊 GitHub Stats:</h2>
 
-## Visual Elements
+<p align="center">
+  <!-- Add GitHub stats cards here -->
+</p>
 
-![GIF](link-to-your-gif)
+<h2 align="center">📈 GitHub Contribution Graph:</h2>
 
-## GitHub Trophies
+<p align="center">
+  <!-- Add contribution graph here -->
+</p>
 
-![Trophies]((https://github.com/users/Grimooar/achievements/pull-shark)https://github.com/users/Grimooar/achievements/pull-shark)
+<h2 align="center">📊 Top Languages Used:</h2>
 
+<p align="center">
+  <!-- Add top languages used here -->
+</p>
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+<p align="center">
+  <!-- Add top contributed repo info here -->
+</p>
+
+<h2 align="center">🏆 GitHub Trophies:</h2>
+
+<p align="center">
+  <!-- Add GitHub trophies here -->
+</p>
+
+<h2 align="center">📊 Full Statistics</h2>
+
+<p align="center">
+  <!-- Add full statistics here -->
+</p>
+
+<h2 align="center">❤️ Thank you!</h2>
+
+<h3 align="center">💰 You can help me by Donating</h3>
+
+<p align="center">
+  <!-- Add donation link or badge here -->
+</p>
+
+<p align="center">
+  <!-- Add visitor badge here -->
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Kf7wTk5jlhw6Eg6BXJ/giphy.gif">
+</div>
