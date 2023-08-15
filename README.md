@@ -5,15 +5,15 @@ I am an experienced developer with expertise in a wide range of programming lang
 
 ## Connect with me
 
-[Telegram](link-to-your-telegram) | [Twitter](link-to-your-twitter) | [Reddit](link-to-your-reddit) | Email: your-email@gmail.com
+[Telegram](https://t.me/zln_work) | Email: zln.vvm@gmail.com
 
 ## Tech Stack
 
-HTML5 | CSS3 | JavaScript | Python | Node.js | Express.js | React | Next.js | Vue.js | Three.js | Kali Linux | Burp Suite | Tailwind CSS | Bootstrap | Django | MySQL | MongoDB | Google Cloud | Vercel | Socket.IO | Adobe Photoshop
+C# | .NET | ASP.NET | Entity Framework | SQL Server | REST API
 
 ## GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social) ![GitHub Repositories](https://img.shields.io/github/repositories/your-username?style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Grimooar?style=social) ![GitHub Repositories](https://img.shields.io/github/repositories/Grimooar?style=flat)
 
 ## Visual Elements
 
@@ -23,6 +23,3 @@ HTML5 | CSS3 | JavaScript | Python | Node.js | Express.js | React | Next.js | Vu
 
 ![Trophies](link-to-your-trophies)
 
-## Support
-
-If you find my work valuable, you can support me by [donating](link-to-donation-page). Thank you for your support!
