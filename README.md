@@ -13,7 +13,7 @@ C# | .NET | ASP.NET | Entity Framework | SQL Server | REST API
 
 ## GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/Grimooar?style=social) ![GitHub Repositories](https://img.shields.io/github/repositories/Grimooar?style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Grimooar?style=social) ! [GitHub Repositories](https://img.shields.io/github/repositories/Grimooar?style=flat)
 
 ## Visual Elements
 
