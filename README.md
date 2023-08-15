@@ -64,16 +64,8 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 
 <h2 align="center">❤️ Thank you!</h2>
 
-<h3 align="center">💰 You can help me by Donating</h3>
 
-<p align="center">
-  <!-- Add donation link or badge here -->
-</p>
 
-<p align="center">
-  <!-- Add visitor badge here -->
-</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Kf7wTk5jlhw6Eg6BXJ/giphy.gif">
-</div>
+
+
