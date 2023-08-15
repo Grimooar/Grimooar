@@ -1,7 +1,6 @@
 # About Me
 
-👋 Hello!
-I am an experienced developer with expertise in a wide range of programming languages and frameworks. I am passionate about creating outstanding digital experiences that are both visually appealing and functional. I have worked on numerous projects, from building complex web applications to developing machine learning models. I am highly organized, detail-oriented, and committed to delivering high-quality work that meets my clients' needs. With my skills and experience, I am confident in my ability to tackle any development challenge that comes my way. 🚀
+Greetings! I am an experienced backend developer with expertise in the C# programming language and the .NET framework. My passion is to create outstanding digital solutions that are not only visually appealing but also functional. My projects include developing complex web applications and building machine learning models. I am detail oriented, highly organized and dedicated to delivering high quality work that meets the needs of my clients. With my skills and experience, I am confident in my ability to solve any development problem. 🚀
 
 ## Connect with me
 
