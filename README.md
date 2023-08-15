@@ -1,16 +1,28 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Grimooar/Grimooar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello!
+I am an experienced developer with expertise in a wide range of programming languages and frameworks. I am passionate about creating outstanding digital experiences that are both visually appealing and functional. I have worked on numerous projects, from building complex web applications to developing machine learning models. I am highly organized, detail-oriented, and committed to delivering high-quality work that meets my clients' needs. With my skills and experience, I am confident in my ability to tackle any development challenge that comes my way. 🚀
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](link-to-your-telegram) | [Twitter](link-to-your-twitter) | [Reddit](link-to-your-reddit) | Email: your-email@gmail.com
+
+## Tech Stack
+
+HTML5 | CSS3 | JavaScript | Python | Node.js | Express.js | React | Next.js | Vue.js | Three.js | Kali Linux | Burp Suite | Tailwind CSS | Bootstrap | Django | MySQL | MongoDB | Google Cloud | Vercel | Socket.IO | Adobe Photoshop
+
+## GitHub Stats
+
+![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social) ![GitHub Repositories](https://img.shields.io/github/repositories/your-username?style=flat)
+
+## Visual Elements
+
+![GIF](link-to-your-gif)
+
+## GitHub Trophies
+
+![Trophies](link-to-your-trophies)
+
+## Support
+
+If you find my work valuable, you can support me by [donating](link-to-donation-page). Thank you for your support!
