@@ -25,10 +25,14 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <table>
   <tr>
     <td>
+      
       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+    
     </td>
     <td>
+      
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimooar)](https://github.com/anuraghazra/github-readme-stats)
+    
     </td>
   </tr>
 </table>
