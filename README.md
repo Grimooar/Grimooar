@@ -42,6 +42,11 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimooar)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 </p>
 
 <h2 align="center">📈 GitHub Contribution Graph:</h2>
