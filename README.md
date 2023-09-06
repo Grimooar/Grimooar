@@ -1,3 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Общие стили для выравнивания контента по центру */
+        h1, h2, h3, p {
+            text-align: center;
+        }
+
+        /* Контейнер для блоков статистики */
+        .stats-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap; /* Разрешает перенос на следующую строку, если экран слишком узкий */
+        }
+
+        /* Стили для каждого блока статистики */
+        .stats-card {
+            flex: 1;
+            margin: 10px;
+            max-width: 300px; /* Максимальная ширина блока, чтобы не было слишком широко на больших экранах */
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="center">💫 About Me:</h1>
 
 <h3 align="center">👋 Hello!</h3>
@@ -19,8 +45,9 @@ I am an experienced backend developer specializing in C# and the .NET framework.
   <a href="https://t.me/zln_work">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <!-- Add more social links here -->
+  <!-- Добавьте ещё ссылки на социальные сети, если есть -->
 </p>
+
 <h2 align="center">🛠️ My Tech Stack:</h2>
 
 <p align="center">
@@ -30,59 +57,55 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center"> 
-
-
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimooar)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-</p>
+<div class="stats-container">
+    <div class="stats-card">
+        <a href="https://git.io/streak-stats">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak">
+        </a>
+    </div>
+    
+    <div class="stats-card">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=Grimooar" alt="GitHub Stats">
+        </a>
+    </div>
+</div>
 
 <h2 align="center">📈 GitHub Contribution Graph:</h2>
 
 <p align="center">
-  <!-- Add contribution graph here -->
+  <!-- Добавьте график вкладов сюда -->
 </p>
 
 <h2 align="center">📊 Top Languages Used:</h2>
 
 <p align="center">
-  <!-- Add top languages used here -->
+  <!-- Добавьте топ-используемые языки сюда -->
 </p>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 
 <p align="center">
-  <!-- Add top contributed repo info here -->
+  <!-- Добавьте информацию о наиболее вкладываемом репозитории сюда -->
 </p>
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
 
 <p align="center">
-  <!-- Add GitHub trophies here -->
+  <!-- Добавьте трофеи GitHub сюда -->
 </p>
 
 <h2 align="center">📊 Full Statistics</h2>
 
 <p align="center">
-  <!-- Add full statistics here -->
+  <!-- Добавьте полную статистику сюда -->
 </p>
 
 <h2 align="center">❤️ Thank you!</h2>
 
-
-
-
-
-
+</body>
+</html>
