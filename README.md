@@ -3,6 +3,7 @@
 <h3 align="center">👋 Hello!</h3>
 <p align="center">
 I am an experienced backend developer specializing in C# and the .NET framework. My passion is creating outstanding digital solutions that are both visually appealing and highly functional. I have a strong track record of working on complex projects, from building robust web applications to crafting efficient machine learning models. My approach is detail-oriented and I'm committed to delivering top-quality work that caters to the needs of my clients. With my skills and experience, I'm confident in my ability to tackle any backend development challenge that comes my way. 🚀
+<img src="https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue" alt=""/>
 </p>
 
 <p align="center"> 
@@ -34,11 +35,8 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue" alt=""/>
-
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center"> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <h2 align="center">📈 GitHub Contribution Graph:</h2>
