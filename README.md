@@ -20,41 +20,44 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
 
-<table>
-  <tr>
-    <td>
-      
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
-    
-    </td>
-    <td>
-      
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grimooar)](https://github.com/anuraghazra/github-readme-stats)
-    
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grimooar&theme=github_dark">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-## 📈 GitHub Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grimooar&show_icons=true&theme=dark&hide_border=false">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-<!-- Добавьте график вкладов сюда -->
+<h2 align="center">📊 Top Languages Used:</h2>
 
-## 📊 Top Languages Used:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grimooar&theme=dark&layout=compact&hide_border=false&langs_count=10" width="380">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
-<!-- Добавьте топ-используемые языки сюда -->
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Grimooar&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
 
-<!-- Добавьте информацию о наиболее вкладываемом репозитории сюда -->
+<h2 align="center">🏆 GitHub Trophies:</h2>
 
-## 🏆 GitHub Trophies:
-
-<!-- Добавьте трофеи GitHub сюда -->
-
-## 📊 Full Statistics
-
-<!-- Добавьте полную статистику сюда -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Grimooar&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 ## ❤️ Thank you!
