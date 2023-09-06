@@ -12,7 +12,7 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <h2 align="center">🌐 Connect with me:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vova-zelenyi-4939a9269/">
+  <a href="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/LinkedIn-blue">
   </a>
   <a href="https://t.me/zln_work">
