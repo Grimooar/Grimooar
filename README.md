@@ -12,8 +12,8 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <h2 align="center">🌐 Connect with me:</h2>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/LinkedIn-blue">
+  <a href="https://www.linkedin.com/in/volodymyr-zelenyi-4939a9269/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://t.me/zln_work">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -23,7 +23,10 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <h2 align="center">🛠️ My Tech Stack:</h2>
 
 <p align="center">
-  <!-- Add badges for your tech stack here -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET">
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
