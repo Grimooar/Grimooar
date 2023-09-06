@@ -27,12 +27,15 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET">
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <!-- Add GitHub stats cards here -->
+<img src="https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue" alt=""/>
 </p>
 
 <h2 align="center">📈 GitHub Contribution Graph:</h2>
