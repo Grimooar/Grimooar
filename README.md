@@ -2,21 +2,25 @@
 <html>
 <head>
     <style>
-
+        /* Общие стили для выравнивания контента по центру */
         h1, h2, h3, p {
             text-align: center;
         }
+
+        /* Контейнер для блоков статистики */
         .stats-container {
             display: flex;
             justify-content: space-around;
-            flex-wrap: wrap; 
+            flex-wrap: wrap; /* Разрешает перенос на следующую строку, если экран слишком узкий */
         }
+
+        /* Стили для каждого блока статистики */
         .stats-card {
             flex: 1;
             margin: 10px;
-            max-width: 300px; 
+            max-width: 300px; /* Максимальная ширина блока, чтобы не было слишком широко на больших экранах */
         }
-    <style>
+    </style>
 </head>
 <body>
 
