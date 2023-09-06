@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## 👋 Hello!
-I am an experienced backend developer specializing in C# and the .NET framework. My passion is creating outstanding digital solutions that are both visually appealing and highly functional. I have a strong track record of working on complex projects, from building robust web applications to crafting efficient machine learning models. My approach is detail-oriented, and I'm committed to delivering top-quality work that caters to the needs of my clients. With my skills and experience, I'm confident in my ability to tackle any backend development challenge that comes my way. 🚀
+I am a server-side developer with 2 years of experience. My passion lies in creating Web APIs, and I also have hands-on experience in tackling complex challenges related to Identity. I thrive on crafting robust digital solutions . With my experience, I'm confident in my ability to handle a wide range of backend development challenges.. 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue)
 
