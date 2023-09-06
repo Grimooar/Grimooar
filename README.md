@@ -36,6 +36,8 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue" alt=""/>
+
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grimooar&theme=dark&background=000000)](https://git.io/streak-stats)
 </p>
 
