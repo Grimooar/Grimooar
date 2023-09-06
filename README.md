@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## 👋 Hello!
-I am a server-side developer with 2 years of experience. My passion lies in creating Web APIs, and I also have hands-on experience in tackling complex challenges related to Identity. I thrive on crafting robust digital solutions . With my experience, I'm confident in my ability to handle a wide range of backend development challenges. 🚀
+I am a server-side developer with 2 years of experience. My passion lies in creating Web APIs, and I also have hands-on experience in tackling complex challenges related to Identity. I love coding ❤️ . With my experience, I'm confident in my ability to handle a wide range of backend development challenges. 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue)
 
