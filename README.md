@@ -45,11 +45,6 @@ I am an experienced backend developer specializing in C# and the .NET framework.
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Grimooar&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
 
