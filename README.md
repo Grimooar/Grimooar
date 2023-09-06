@@ -6,10 +6,10 @@ I am an experienced backend developer specializing in C# and the .NET framework.
 ![Profile Views](https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue)
 
 ## 🌐 Connect with me:
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/volodymyr-zelenyi-4939a9269/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zln_work)
-<!-- Добавьте ещё ссылки на социальные сети, если есть -->
+</p>
 
 ## 🛠️ My Tech Stack:
 
