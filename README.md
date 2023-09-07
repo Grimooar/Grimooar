@@ -7,7 +7,7 @@ I am a server-side developer with 2 years of experience. My passion lies in crea
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/Lsodis/badges/large)
 
 <h2 align="center">🌐 Connect with me:</h2>
 
