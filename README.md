@@ -5,10 +5,12 @@ I am a server-side developer with 2 years of experience. My passion lies in crea
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue)
 
-### 💻 Codewars:
-
+<h2 align="center"> 💻 Codewars: </h2>
+<p align="center">
+  
 ![codewars](https://www.codewars.com/users/Lsodis/badges/large)
 
+</p>
 <h2 align="center">🌐 Connect with me:</h2>
 
 <p align="center">
