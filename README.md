@@ -1,8 +1,3 @@
-# 💫 About Me:
-
-## 👋 Hello!
-I am a server-side developer with 2 years of experience. My passion lies in creating Web APIs, and I also have hands-on experience in tackling complex challenges related to Identity. I love coding ❤️ . With my experience, I'm confident in my ability to handle a wide range of backend development challenges. 🚀
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Grimooar&style=flat-square&color=blue)
 
 ### 💻 Codewars:
@@ -49,23 +44,5 @@ I am a server-side developer with 2 years of experience. My passion lies in crea
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-<h2 align="center">📊 Top Languages Used:</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grimooar&theme=dark&layout=compact&hide_border=false&langs_count=10" width="380">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-
-<h2 align="center">🏆 GitHub Trophies:</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Grimooar&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
 
 ## ❤️ Thank you!
