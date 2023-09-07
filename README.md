@@ -8,7 +8,9 @@ I am a server-side developer with 2 years of experience. My passion lies in crea
 <h2 align="center"> 💻 Codewars: </h2>
 <p align="center">
   
-![codewars](https://www.codewars.com/users/Lsodis/badges/large)
+  ![codewars](https://www.codewars.com/users/Lsodis/badges/large)
+   <br/>
+  <br/>
 
 </p>
 <h2 align="center">🌐 Connect with me:</h2>
